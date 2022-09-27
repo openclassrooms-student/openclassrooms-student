@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 :white_check_mark: Construisez une API sécurisée pour une application d'avis gastronomiques  
 :white_check_mark: Créez un réseau social d'entreprise  
 
-### Développer d'application (JavaScript / React)
+### Développeur d'application (JavaScript / React)
 :white_check_mark: Prenez en main votre formation formation  
 :white_check_mark: Transformez une maquette en site web avec HTML & CSS  
 :white_check_mark: Dynamisez une page web avec des animation CSS  
