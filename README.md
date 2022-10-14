@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 :white_check_mark: [Prenez en main votre formation formation](https://github.com/openclassrooms-student/mathurinchung_frontend_1_05092022)  
 :white_check_mark: [Transformez une maquette en site web avec HTML & CSS](https://github.com/openclassrooms-student/mathurinchung_frontend_2_05092022)  
 :white_check_mark: [Dynamisez une page web avec des animation CSS](https://github.com/openclassrooms-student/mathurinchung_frontend_3_05092022)  
-:black_large_square: [Créez une landing page avec JavaScript](https://github.com/openclassrooms-student/mathurinchung_frontend_4_13092022)  
+:white_check_mark: [Créez une landing page avec JavaScript](https://github.com/openclassrooms-student/mathurinchung_frontend_4_13092022)  
 :black_large_square: [Testez vos compétences : les langages du Web](https://github.com/openclassrooms-student/mathurinchung_frontend_5_04102022)  
 :black_large_square: [Créez un site accessible pour une plateforme de photographie](https://github.com/openclassrooms-student/mathurinchung_frontend_6_04102022)  
 :black_large_square: [Développez un algorithme de recherche en JavaScript](https://github.com/openclassrooms-student/#)  
