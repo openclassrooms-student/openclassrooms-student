@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**mathurinchung-oc/mathurinchung-oc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**openclassrooms-student/openclassrooms-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# [Mathurin Chung](https://github.com/mathurinchung)'s student profile
 
 ### Développeur Web
 :white_check_mark: [Prenez en main votre formation de développeur web](https://github.com/openclassrooms-student/mathurinchung_webdev_1_28042021)  
