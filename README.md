@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 :white_check_mark: [Dynamisez une page web avec des animation CSS](https://github.com/openclassrooms-student/mathurinchung_frontend_3_05092022)  
 :white_check_mark: [Créez une landing page avec JavaScript](https://github.com/openclassrooms-student/mathurinchung_frontend_4_13092022)  
 :dart: [Testez vos compétences : les langages du Web](https://github.com/openclassrooms-student/mathurinchung_frontend_5_04102022)  
-:dart: [Créez un site accessible pour une plateforme de photographie](https://github.com/openclassrooms-student/mathurinchung_frontend_6_04102022)  
+:white_check_mark: [Créez un site accessible pour une plateforme de photographie](https://github.com/openclassrooms-student/mathurinchung_frontend_6_04102022)  
 :dart: [Développez un algorithme de recherche en JavaScript](https://github.com/openclassrooms-student/mathurinchung_frontend_7_01112022)  
 :black_large_square: [Testez vos compétences : les algorithmes en JavaScript](https://github.com/openclassrooms-student/#)  
 :black_large_square: [Débuggez et testez un SaaS RH](https://github.com/openclassrooms-student/#)  
