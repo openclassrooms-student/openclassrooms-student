@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 :dart: [Définissez les besoins pour une app de soutien scolaire](https://github.com/openclassrooms-student/mathurinchung_frontend_10_27122022)  
 :white_check_mark: [Développez une application Web avec React et React Router](https://github.com/openclassrooms-student/mathurinchung_frontend_11_03022023)  
 :white_check_mark: [Développez un tableau de bord d'analytics avec React](https://github.com/openclassrooms-student/mathurinchung_frontend_12_24022023)  
-:dart: [Utilisez une API pour un compte utilisateur bancaire avec React](https://github.com/openclassrooms-student/mathurinchung_frontend_13_21032023)  
+:white_check_mark: [Utilisez une API pour un compte utilisateur bancaire avec React](https://github.com/openclassrooms-student/mathurinchung_frontend_13_21032023)  
 :dart: [Faites passer une librairie jQuery vers React](https://github.com/openclassrooms-student/mathurinchung_frontend_14_04042023)  
