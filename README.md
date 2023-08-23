@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 :white_check_mark: [Développez un algorithme de recherche en JavaScript](https://github.com/openclassrooms-student/mathurinchung_frontend_7_01112022)  
 :white_check_mark: [Testez vos compétences : les algorithmes en JavaScript](https://github.com/openclassrooms-student/mathurinchung_frontend_8_29112022)  
 :white_check_mark: [Débuggez et testez un SaaS RH](https://github.com/openclassrooms-student/mathurinchung_frontend_9_29112022)  
-:dart: [Définissez les besoins pour une app de soutien scolaire](https://github.com/openclassrooms-student/mathurinchung_frontend_10_27122022)  
+:white_check_mark: [Définissez les besoins pour une app de soutien scolaire](https://github.com/openclassrooms-student/mathurinchung_frontend_10_27122022)  
 :white_check_mark: [Développez une application Web avec React et React Router](https://github.com/openclassrooms-student/mathurinchung_frontend_11_03022023)  
 :white_check_mark: [Développez un tableau de bord d'analytics avec React](https://github.com/openclassrooms-student/mathurinchung_frontend_12_24022023)  
 :white_check_mark: [Utilisez une API pour un compte utilisateur bancaire avec React](https://github.com/openclassrooms-student/mathurinchung_frontend_13_21032023)  
