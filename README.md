@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 :white_check_mark: [Construisez une API sécurisée pour une application d'avis gastronomiques](https://github.com/softarchlabs/mathurinchung_webdev_6_16022022)  
 :white_check_mark: [Créez un réseau social d'entreprise](https://github.com/softarchlabs/mathurinchung_webdev_7_22032022)
 
-### Développer d'application (JavaScript / React)
+### Développeur d'application (JavaScript / React)
 :white_check_mark: [Prenez en main votre formation formation](https://github.com/softarchlabs/mathurinchung_frontend_1_05092022)  
 :white_check_mark: [Transformez une maquette en site web avec HTML & CSS](https://github.com/softarchlabs/mathurinchung_frontend_2_05092022)  
 :white_check_mark: [Dynamisez une page web avec des animation CSS](https://github.com/softarchlabs/mathurinchung_frontend_3_05092022)  
